@@ -12,6 +12,11 @@ Social media website is an online platform that allows people to create a public
 
 Tools used: Brackets, Apache XAMPP
 
+Programming paradigm: Object-oriented
+
+Library used: Bootstrap, jQuery, Bootbox.js
+
 Languages used: HTML, CSS, PHP, JavaScript
 
 Database: MySQL
+
